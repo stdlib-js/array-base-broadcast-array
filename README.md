@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-broadcast-array/tags). For example,
+
+```javascript
 import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.1-deno/mod.js';
 ```
 
@@ -114,7 +119,7 @@ The function returns an object having the following properties:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.1-deno/mod.js';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@deno/mod.js';
 
 // Create a 2x1 array:
 var x = [
