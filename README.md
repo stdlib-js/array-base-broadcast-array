@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-broadcast-array/tags). For example,
+
+```javascript
 import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.2-esm/index.mjs';
 ```
 
@@ -119,7 +124,7 @@ The function returns an object having the following properties:
 <body>
 <script type="module">
 
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.2-esm/index.mjs';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@esm/index.mjs';
 
 // Create a 2x1 array:
 var x = [
