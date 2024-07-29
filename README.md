@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@esm/index.mjs';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.2-esm/index.mjs';
 ```
 
 #### broadcastArray( x, inShape, outShape )
@@ -119,7 +119,7 @@ The function returns an object having the following properties:
 <body>
 <script type="module">
 
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@esm/index.mjs';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.2-esm/index.mjs';
 
 // Create a 2x1 array:
 var x = [
