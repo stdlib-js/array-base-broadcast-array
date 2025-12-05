@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-12-05)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f11ec58`](https://github.com/stdlib-js/stdlib/commit/f11ec582954487ae134d60517caf8ab6b908208e) - **bench:** refactor to use string interpolation in `array/base/broadcast-array` [(#8807)](https://github.com/stdlib-js/stdlib/pull/8807) _(by Kate Suraev)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kate Suraev
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
