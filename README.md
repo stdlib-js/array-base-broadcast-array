@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@deno/mod.js';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.3-deno/mod.js';
 ```
 
 #### broadcastArray( x, inShape, outShape )
@@ -114,7 +114,7 @@ The function returns an object having the following properties:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@deno/mod.js';
+import broadcastArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcast-array@v0.2.3-deno/mod.js';
 
 // Create a 2x1 array:
 var x = [
